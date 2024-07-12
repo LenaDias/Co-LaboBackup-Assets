@@ -1,0 +1,31 @@
+{
+  "name": "The Old Biscuit",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Biscuit_050321"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/86fd231f-8736-4434-933d-5cebffefcfb1.bin",
+    "name": "The Old Biscuit",
+    "parent_scene_id": "JLAAZf9",
+    "project_id": null,
+    "scene_id": "af3cKR6",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/d16d04f9-e770-44c8-bd08-214c68a73393.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/e899d691-84c3-408b-8768-5991b4b765fe.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/af3cKR6/the-old-biscuit"
+  },
+  "project_id": "WJqTfS3",
+  "project_url": "https://uploads-prod.reticulum.io/files/747bc0e4-a969-423c-916c-0c7e57bd9491.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/88806c20-0fdd-4f43-9131-0202e30de360.jpg"
+}

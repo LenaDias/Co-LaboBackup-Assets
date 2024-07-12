@@ -1,0 +1,26 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Cell_Theater_interior"
+      },
+      {
+        "title": "SkyBox"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/64662624-7eed-4c29-9c2f-820659fbb827.bin",
+  "name": "Theater Demo",
+  "parent_scene_id": null,
+  "project_id": "zou25Nv",
+  "scene_id": "nCuwDnw",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/e8d98176-2d16-4a0b-8307-6c2b0fef3f5a.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/nCuwDnw/theater-demo"
+}

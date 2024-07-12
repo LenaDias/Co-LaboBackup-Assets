@@ -1,0 +1,23 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "rpm_111721"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/7b81b6eb-a755-4d9b-9f5d-3f7d23c02224.bin",
+  "name": "Rufus Porter Museum V3",
+  "parent_scene_id": null,
+  "project_id": "jnRRtof",
+  "scene_id": "oDgKs8V",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/79dc0439-6002-455a-960c-e88541548d5e.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/oDgKs8V/rufus-porter-museum-v3"
+}

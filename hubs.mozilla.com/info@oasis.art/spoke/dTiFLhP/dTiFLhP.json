@@ -1,0 +1,39 @@
+{
+  "name": "Prectxe Theater",
+  "parent_scene": null,
+  "project_id": "dTiFLhP",
+  "project_url": "https://uploads-prod.reticulum.io/files/0b3a8346-e071-455d-82af-8898f482f391.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Cell_Theater_interior"
+        },
+        {
+          "title": "SkyBox"
+        },
+        {
+          "title": "lobby"
+        },
+        {
+          "title": "TheaterLineUp"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/85bcff6c-75a2-4c2d-9481-b6ca6358382c.bin",
+    "name": "Prectxe Theater",
+    "parent_scene_id": null,
+    "project_id": "dTiFLhP",
+    "scene_id": "GxGkTQB",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/10524512-eed9-451e-8024-23f57488e125.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/GxGkTQB/prectxe-theater"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/c88baf10-0676-467c-bc70-51add2cc9244.jpg"
+}

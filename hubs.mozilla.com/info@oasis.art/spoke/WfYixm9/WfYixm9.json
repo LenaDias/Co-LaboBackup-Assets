@@ -1,0 +1,49 @@
+{
+  "name": "Test 360 video",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": true,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [],
+      "creator": "Hubs Team"
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/b1af56b4-ee12-4a3d-bf65-89f079c05aca.bin",
+    "name": "Crater",
+    "parent_scene_id": null,
+    "project_id": "aPJPZKp",
+    "scene_id": "4FxCdTn",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/f23d8340-1bc2-446e-aabb-49ce032e6a9b.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/76883f3b-2adc-48b7-af0c-eee1bf617076.jpg",
+    "type": "scene_listing",
+    "url": "https://hubs.mozilla.com/scenes/4FxCdTn/crater"
+  },
+  "project_id": "WfYixm9",
+  "project_url": "https://uploads-prod.reticulum.io/files/a85f38a0-0305-44c2-9d21-2c033e881659.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Video"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/5fadee9c-943a-4dcc-a70d-a3ecf5fd724f.bin",
+    "name": "Test 360 video",
+    "parent_scene_id": "4FxCdTn",
+    "project_id": "WfYixm9",
+    "scene_id": "WRFLGtV",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/bedd7e21-b9a6-4105-bd39-5179e0ba783d.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/WRFLGtV/test-360-video"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/3a25b6f5-d50a-4e75-9280-f690d3380c75.jpg"
+}

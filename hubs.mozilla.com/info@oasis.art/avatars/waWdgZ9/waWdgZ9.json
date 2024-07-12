@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "waWdgZ9",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/waWdgZ9/base.gltf?v=63811957663",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/ccfcabf8-9670-418d-abcc-c73c1f2487ba.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/waWdgZ9/avatar.gltf?v=63811957663",
+  "has_listings": false,
+  "name": "Gundam RX-78-2 ",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "NRpGaks",
+  "type": "avatar"
+}

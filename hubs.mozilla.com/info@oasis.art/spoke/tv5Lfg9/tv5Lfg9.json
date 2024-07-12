@@ -1,0 +1,27 @@
+{
+  "name": "OASIS Graffiti Alley V2",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/f9627d96-41f7-4857-a73f-7a9c2a67e370.bin",
+    "name": "OASIS Graffiti Alley V2",
+    "parent_scene_id": null,
+    "project_id": null,
+    "scene_id": "fFDz3XR",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/0e7b094c-0ffd-4298-b3fe-63725badc4a5.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/eea72e63-301f-4b7c-8f36-da289ef15b5f.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/fFDz3XR/oasis-graffiti-alley-v2"
+  },
+  "project_id": "tv5Lfg9",
+  "project_url": "https://uploads-prod.reticulum.io/files/2768f2e2-8e7b-41c3-b255-f7d7be2c59e3.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/1054fb09-61d7-4fc6-a96e-fb9c1886d2cb.jpg"
+}

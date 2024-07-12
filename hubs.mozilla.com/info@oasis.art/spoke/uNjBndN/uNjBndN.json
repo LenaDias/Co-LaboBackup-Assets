@@ -1,0 +1,31 @@
+{
+  "name": "Juliet V1",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Juliet_021721"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/9dab8cca-8ebc-49b8-9759-92d995bc38c6.bin",
+    "name": "Juliet V1",
+    "parent_scene_id": null,
+    "project_id": null,
+    "scene_id": "PVn989F",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/09f08062-48a6-4ff6-8ae2-b830aac87211.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/005962c4-7fee-4916-a608-920ad88a7f4a.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/PVn989F/juliet-v1"
+  },
+  "project_id": "uNjBndN",
+  "project_url": "https://uploads-prod.reticulum.io/files/b9603a9e-b918-4f51-8693-333cdaffb6e1.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/79d2c904-a522-4f89-a28d-b47b59f76187.jpg"
+}

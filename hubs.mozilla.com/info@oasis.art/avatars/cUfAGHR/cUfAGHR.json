@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "cUfAGHR",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/cUfAGHR/base.gltf?v=63811957001",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/09a68d8c-96f1-4689-9687-20d740e0d1e9.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/cUfAGHR/avatar.gltf?v=63811957001",
+  "has_listings": false,
+  "name": "Pink is Suspicious",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "UMcne5m",
+  "type": "avatar"
+}

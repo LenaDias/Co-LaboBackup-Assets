@@ -1,0 +1,24 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Libbys_050321"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/b6d2f2fc-7274-40ef-9adf-707422fe701d.bin",
+  "name": "Central Libby's",
+  "parent_scene_id": "JLAAZf9",
+  "project_id": null,
+  "scene_id": "e7mfoWn",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/083a02ac-48e7-4ea2-98ca-687a4a60e4d1.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/1d511aef-13d3-4f15-bd67-1c8edd8d08ff.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/e7mfoWn/central-libbys"
+}

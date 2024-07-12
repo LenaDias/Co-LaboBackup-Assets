@@ -1,0 +1,31 @@
+{
+  "name": "OASIS Gallery Test V3",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Oasis_012121"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/20d96fe4-9b81-4827-a176-63ed5fe1c540.bin",
+    "name": "OASIS Gallery Test V3",
+    "parent_scene_id": "wKHKPXB",
+    "project_id": null,
+    "scene_id": "aLVEYrm",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/fa1fc1b3-58ff-401f-891e-a3c60f41a07b.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/b8af9c23-03fa-46d5-a8a8-ed207ba8ae73.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/aLVEYrm/oasis-gallery-test-v3"
+  },
+  "project_id": "WrTZXoZ",
+  "project_url": "https://uploads-prod.reticulum.io/files/717671f8-5072-43f2-bde9-cbcd37249596.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/1d9869af-ec4f-46a1-be7f-2b9ddeee75e2.jpg"
+}

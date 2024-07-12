@@ -1,0 +1,19 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/ec3f2c82-3e9e-41a1-b4e5-64257a5530fe.glb",
+  "name": "CoLabo Indoors Theater Hall",
+  "parent_scene_id": null,
+  "project_id": null,
+  "scene_id": "4z5MrSB",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/99c8b3b8-a556-4eaf-9b67-1f1b2fdcbe20.png",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/4z5MrSB/colabo-indoors-theater-hall"
+}

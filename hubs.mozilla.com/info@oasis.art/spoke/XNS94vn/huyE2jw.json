@@ -1,0 +1,23 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "OasisGalleryClean"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/1263c581-cedc-424e-a203-42dfb4ad79a4.bin",
+  "name": "OASIS Gallery",
+  "parent_scene_id": null,
+  "project_id": "XNS94vn",
+  "scene_id": "huyE2jw",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/9ff07166-7c2e-4431-9706-3225918e14cc.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/huyE2jw/oasis-gallery"
+}

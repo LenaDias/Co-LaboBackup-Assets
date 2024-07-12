@@ -1,0 +1,41 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Exterior_Stage"
+      },
+      {
+        "title": "SkyBox"
+      },
+      {
+        "title": "untitled"
+      },
+      {
+        "title": "LobbyInfo_1"
+      },
+      {
+        "title": "LobbyInfo_2"
+      },
+      {
+        "title": "xplo-no-logo"
+      },
+      {
+        "title": "odyssey-no-logo"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/210bf81d-989c-4ae4-8eb5-a9e644f6e906.bin",
+  "name": "Prectxe Lobby",
+  "parent_scene_id": null,
+  "project_id": "AgnQcBi",
+  "scene_id": "QSygGqx",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/a69c2a8d-315e-4a42-be40-43b4a24e396e.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/QSygGqx/prectxe-lobby"
+}

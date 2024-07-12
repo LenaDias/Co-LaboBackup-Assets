@@ -1,0 +1,37 @@
+{
+  "name": "Video Test",
+  "parent_scene": null,
+  "project_id": "AChCcLB",
+  "project_url": "https://uploads-prod.reticulum.io/files/f7976ac4-4421-4907-b613-094fa110d471.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Video"
+        },
+        {
+          "title": "Video 1"
+        },
+        {
+          "title": "Video 2"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/e9f4a608-6fa0-4c83-ab3c-e290de571cdf.bin",
+    "name": "Video Test",
+    "parent_scene_id": null,
+    "project_id": "AChCcLB",
+    "scene_id": "TCLYhFP",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/197d9af8-e292-4a79-aeca-c035b8ba2800.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/efa87516-7790-4042-8d57-a5890b9613d9.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/TCLYhFP/video-test"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/a180dfcd-43f0-4d0e-ba61-8d670b8f2ed8.jpg"
+}

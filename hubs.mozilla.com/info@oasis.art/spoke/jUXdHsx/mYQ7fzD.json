@@ -1,0 +1,30 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "face_glb6"
+      },
+      {
+        "title": "GrafAlley_041721"
+      },
+      {
+        "title": "OASIS-Poster"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/bf4ff8c3-cbd3-4aa4-a21d-c5aac1f62bc7.bin",
+  "name": "Graffiti Alley",
+  "parent_scene_id": "JLAAZf9",
+  "project_id": null,
+  "scene_id": "mYQ7fzD",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/f8a5d09d-52ba-41d4-9ce7-5747608b59bf.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/eb9ebdab-70fb-42ba-a108-3d618fd507fa.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/mYQ7fzD/graffiti-alley"
+}

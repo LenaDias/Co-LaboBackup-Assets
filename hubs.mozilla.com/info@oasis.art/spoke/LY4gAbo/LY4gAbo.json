@@ -1,0 +1,45 @@
+{
+  "name": "Prectxe R1 - Lee Hee Won",
+  "parent_scene": null,
+  "project_id": "LY4gAbo",
+  "project_url": "https://uploads-prod.reticulum.io/files/db911caa-c929-4b8e-968a-89aadf24e1a8.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Lee Hee Won"
+        },
+        {
+          "title": "Dome1_Walkplane"
+        },
+        {
+          "title": "xplo-no-logo"
+        },
+        {
+          "title": "leeheewon_infinite2"
+        },
+        {
+          "title": "leeheewon_infinite5"
+        },
+        {
+          "title": "leeheewon-img"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/b8f7f72c-e134-4d92-972d-86c7a10366fc.bin",
+    "name": "Prectxe R1 - Lee Hee Won",
+    "parent_scene_id": null,
+    "project_id": "LY4gAbo",
+    "scene_id": "Z58nKBX",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/28640be0-83b7-47d0-a2cc-00b61595ac5e.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/Z58nKBX/prectxe-r1-lee-hee-won"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/e32ad71e-1ce7-47c6-8513-32d869cf0812.jpg"
+}

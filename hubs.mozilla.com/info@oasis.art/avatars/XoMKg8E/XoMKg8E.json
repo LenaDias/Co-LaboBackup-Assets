@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "XoMKg8E",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/XoMKg8E/base.gltf?v=63811957011",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/323171da-1866-49f5-8678-8adde1cda7b8.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/XoMKg8E/avatar.gltf?v=63811957011",
+  "has_listings": false,
+  "name": "Webcam Hologram",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "RATQPDA",
+  "type": "avatar"
+}

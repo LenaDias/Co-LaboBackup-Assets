@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "MbciPY6",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/MbciPY6/base.gltf?v=63811956936",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/e74b90c0-fc47-432d-a1cf-e4d6a6f87e45.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/MbciPY6/avatar.gltf?v=63811956936",
+  "has_listings": false,
+  "name": "666th Dimensional Angel",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "oLJgIQe",
+  "type": "avatar"
+}

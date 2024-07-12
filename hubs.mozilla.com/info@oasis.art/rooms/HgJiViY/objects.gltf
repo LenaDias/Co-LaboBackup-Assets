@@ -1,0 +1,158 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "Room Objects"
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        0.3249627947807312,
+        1.695530652999878,
+        3.164494752883911
+      ],
+      "rotation": [
+        -0.06838642769878157,
+        0.23478578102752887,
+        0.0165591202275007,
+        0.9694971526885386
+      ],
+      "name": "wam4is1",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/test2-web-vimeo-720p-defs.webm",
+            "id": "wam4is1",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        -0.35302639024657534,
+        1.718071905864543,
+        3.8767266944955034
+      ],
+      "rotation": [
+        -0.05900818656961462,
+        0.5432392308303916,
+        0.03831533647430664,
+        0.8366248304917986
+      ],
+      "name": "lfnkrgy",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/test1-web-vimeo-720p-defs.webm",
+            "id": "lfnkrgy",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        1.3656545877456665,
+        1.7050565481185913,
+        3.0415761470794678
+      ],
+      "rotation": [
+        -0.11043897478918795,
+        -0.11996150498498412,
+        -0.013431208044952616,
+        0.986525251992925
+      ],
+      "name": "h6dl9hh",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/test3-web-vimeo-720p-defs.webm",
+            "id": "h6dl9hh",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        2.237410306930542,
+        1.7013219594955444,
+        3.670494318008423
+      ],
+      "rotation": [
+        -0.12571393806284317,
+        -0.4670213967747164,
+        -0.06727749002997953,
+        0.8726744868887771
+      ],
+      "name": "4igbzzf",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/test4-web-vimeo-720p-defs.webm",
+            "id": "4igbzzf",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        2.4489736557006836,
+        1.6668756008148193,
+        4.736489295959473
+      ],
+      "rotation": [
+        -0.1152240170543656,
+        -0.7486424436599671,
+        -0.13567919778072673,
+        0.6386306230789959
+      ],
+      "name": "c7eqctk",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/test5-v2-web-vimeo-720p-defs.webm",
+            "id": "c7eqctk",
+            "contentSubtype": null
+          }
+        }
+      }
+    }
+  ],
+  "extensionsUsed": [
+    "HUBS_components"
+  ],
+  "asset": {
+    "version": "2.0",
+    "generator": "reticulum"
+  }
+}

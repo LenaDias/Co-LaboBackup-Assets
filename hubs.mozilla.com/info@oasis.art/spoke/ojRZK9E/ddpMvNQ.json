@@ -1,0 +1,27 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "286_noart"
+      },
+      {
+        "title": "728260ab-4e8f-4052-8e1a-c7fae3492989"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/91726de1-0835-422a-87fd-a0d7080e56d5.bin",
+  "name": "286 Broadway",
+  "parent_scene_id": null,
+  "project_id": null,
+  "scene_id": "ddpMvNQ",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/32563bf3-7816-456c-b417-f7b5d0a9082e.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/4f4525c3-48e7-41b2-ae39-0d1b69eb5a73.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/ddpMvNQ/286-broadway"
+}

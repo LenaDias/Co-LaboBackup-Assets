@@ -1,0 +1,333 @@
+{
+  "skins": [
+    {
+      "name": "AvatarRoot",
+      "joints": [
+        6,
+        4,
+        3,
+        2,
+        0,
+        1,
+        5
+      ],
+      "inverseBindMatrices": 7
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        8
+      ],
+      "name": "Scene"
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "translation": [
+        -0.06142770126461983,
+        0.1301877498626709,
+        0.005129944067448378
+      ],
+      "scale": [
+        1,
+        1.000000238418579,
+        1
+      ],
+      "rotation": [
+        -1.1167236380060785e-7,
+        0.7044310569763184,
+        0.7097724080085754,
+        5.318305795753986e-8
+      ],
+      "name": "RightEye"
+    },
+    {
+      "translation": [
+        0.06142747774720192,
+        0.1301879733800888,
+        0.005130418110638857
+      ],
+      "scale": [
+        1,
+        1.000000238418579,
+        1
+      ],
+      "rotation": [
+        -1.1167236380060785e-7,
+        0.7044310569763184,
+        0.7097724080085754,
+        5.318305795753986e-8
+      ],
+      "name": "LeftEye"
+    },
+    {
+      "translation": [
+        2.121718271198516e-21,
+        0.03963485360145569,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        0.9999999403953552
+      ],
+      "rotation": [
+        -0.003777163103222847,
+        2.3841693064241554e-7,
+        -1.110231097907935e-16,
+        0.9999929666519165
+      ],
+      "name": "Head",
+      "children": [
+        0,
+        1
+      ]
+    },
+    {
+      "translation": [
+        3.3880413161377034e-21,
+        0.05052328109741211,
+        -7.105427357601002e-15
+      ],
+      "scale": [
+        1,
+        0.9999999403953552,
+        1
+      ],
+      "rotation": [
+        -4.5220215127983465e-8,
+        -1.1920926823449918e-7,
+        5.372146378733369e-15,
+        1
+      ],
+      "name": "Neck",
+      "children": [
+        2
+      ]
+    },
+    {
+      "translation": [
+        0,
+        0.40596550703048706,
+        0
+      ],
+      "rotation": [
+        1.6510193745489232e-7,
+        2.0691147127599413e-17,
+        2.0691143818876962e-17,
+        1
+      ],
+      "name": "Spine",
+      "children": [
+        3
+      ]
+    },
+    {
+      "translation": [
+        1.4652075108756435e-9,
+        -0.0466080904006958,
+        6.386957807080762e-8
+      ],
+      "rotation": [
+        1,
+        -8.742272683548435e-8,
+        -7.549790126404332e-8,
+        5.950726063019829e-7
+      ],
+      "name": "Audio Feedback",
+      "extensions": {
+        "MOZ_hubs_components": {
+          "scale-audio-feedback": {
+            "minScale": 0,
+            "maxScale": 2
+          }
+        }
+      }
+    },
+    {
+      "rotation": [
+        6.291097065513895e-8,
+        0,
+        0,
+        1
+      ],
+      "name": "Hips",
+      "children": [
+        4,
+        5
+      ]
+    },
+    {
+      "skin": 0,
+      "name": "Triangle Avatar",
+      "mesh": 0
+    },
+    {
+      "name": "AvatarRoot",
+      "children": [
+        7,
+        6
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "material": 0,
+          "indices": 6,
+          "attributes": {
+            "WEIGHTS_0": 5,
+            "TEXCOORD_0": 2,
+            "POSITION": 0,
+            "NORMAL": 1,
+            "JOINTS_0": 4,
+            "COLOR_0": 3
+          }
+        }
+      ],
+      "name": "Triangle Avatar"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0
+      },
+      "name": "Bot_PBS",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "doubleSided": true
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit",
+    "MOZ_hubs_components"
+  ],
+  "extensions": {
+    "MOZ_hubs_components": {
+      "version": 3,
+      "exporterVersion": "0.0.9"
+    }
+  },
+  "buffers": [
+    {
+      "uri": "09cbaa28-d2e3-4bc7-aafc-7f389b22c967.bin",
+      "byteLength": 29908
+    }
+  ],
+  "bufferViews": [
+    {
+      "byteOffset": 0,
+      "byteLength": 5616,
+      "buffer": 0
+    },
+    {
+      "byteOffset": 5616,
+      "byteLength": 5616,
+      "buffer": 0
+    },
+    {
+      "byteOffset": 11232,
+      "byteLength": 3744,
+      "buffer": 0
+    },
+    {
+      "byteOffset": 14976,
+      "byteLength": 3744,
+      "buffer": 0
+    },
+    {
+      "byteOffset": 18720,
+      "byteLength": 1872,
+      "buffer": 0
+    },
+    {
+      "byteOffset": 20592,
+      "byteLength": 7488,
+      "buffer": 0
+    },
+    {
+      "byteOffset": 28080,
+      "byteLength": 1380,
+      "buffer": 0
+    },
+    {
+      "byteOffset": 29460,
+      "byteLength": 448,
+      "buffer": 0
+    }
+  ],
+  "asset": {
+    "version": "2.0",
+    "generator": "Khronos glTF Blender I/O v1.5.17",
+    "extras": {
+      "HUBS_blenderExporterVersion": "0.0.9"
+    }
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "min": [
+        -0.20238088071346283,
+        -0.05557271093130112,
+        -0.20238077640533447
+      ],
+      "max": [
+        0.20238088071346283,
+        0.6607279181480408,
+        0.20238099992275238
+      ],
+      "count": 468,
+      "componentType": 5126,
+      "bufferView": 0
+    },
+    {
+      "type": "VEC3",
+      "count": 468,
+      "componentType": 5126,
+      "bufferView": 1
+    },
+    {
+      "type": "VEC2",
+      "count": 468,
+      "componentType": 5126,
+      "bufferView": 2
+    },
+    {
+      "type": "VEC4",
+      "normalized": true,
+      "count": 468,
+      "componentType": 5123,
+      "bufferView": 3
+    },
+    {
+      "type": "VEC4",
+      "count": 468,
+      "componentType": 5121,
+      "bufferView": 4
+    },
+    {
+      "type": "VEC4",
+      "count": 468,
+      "componentType": 5126,
+      "bufferView": 5
+    },
+    {
+      "type": "SCALAR",
+      "count": 690,
+      "componentType": 5123,
+      "bufferView": 6
+    },
+    {
+      "type": "MAT4",
+      "count": 7,
+      "componentType": 5126,
+      "bufferView": 7
+    }
+  ]
+}

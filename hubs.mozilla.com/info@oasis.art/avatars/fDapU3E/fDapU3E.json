@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "fDapU3E",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/fDapU3E/base.gltf?v=63811957658",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/5039316a-9297-4182-994a-d99fb21c864b.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/fDapU3E/avatar.gltf?v=63811957658",
+  "has_listings": false,
+  "name": "Hellraiser Funko",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "KUbFI40",
+  "type": "avatar"
+}

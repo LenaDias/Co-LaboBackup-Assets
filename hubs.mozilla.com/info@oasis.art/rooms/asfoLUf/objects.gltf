@@ -1,0 +1,53 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Room Objects"
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        0.6474629039236479,
+        8.913941669370132,
+        -8.843334815469376
+      ],
+      "scale": [
+        17.77959075177611,
+        17.77959075177611,
+        17.77959075177611
+      ],
+      "rotation": [
+        0.17440758003542695,
+        0,
+        0,
+        0.9846735479468239
+      ],
+      "name": "7rnwurp",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "time": 179.406985,
+            "src": "http://andrescolubri.net/tmp/Ko_Hui.webm",
+            "paused": true,
+            "id": "7rnwurp",
+            "contentSubtype": null
+          }
+        }
+      }
+    }
+  ],
+  "extensionsUsed": [
+    "HUBS_components"
+  ],
+  "asset": {
+    "version": "2.0",
+    "generator": "reticulum"
+  }
+}

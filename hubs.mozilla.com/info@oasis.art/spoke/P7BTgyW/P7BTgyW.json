@@ -1,0 +1,45 @@
+{
+  "name": "UTILS TEST",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": true,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [],
+      "creator": "Hubs Team"
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/a125ee4d-a329-4b66-befb-4546eac268e5.bin",
+    "name": "Surrounded Lake",
+    "parent_scene_id": null,
+    "project_id": "6RYk6Wz",
+    "scene_id": "wKHKPXB",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/259a3904-7728-4cbb-bdda-ae027566838d.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/eb429a3d-66d1-4226-a749-735714e2dc2f.jpg",
+    "type": "scene_listing",
+    "url": "https://hubs.mozilla.com/scenes/wKHKPXB/surrounded-lake"
+  },
+  "project_id": "P7BTgyW",
+  "project_url": "https://uploads-prod.reticulum.io/files/e490c208-d973-4ad9-ab41-f2f095b15295.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/10111d57-5519-4868-ab23-7639f97b6dd8.bin",
+    "name": "UTILS TEST",
+    "parent_scene_id": "wKHKPXB",
+    "project_id": "P7BTgyW",
+    "scene_id": "XkRUAyL",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/8db07f69-6691-40f0-b56a-75cf8037d900.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/XkRUAyL/utils-test"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/575eed00-0972-4d94-8df7-ce237fd37b31.jpg"
+}

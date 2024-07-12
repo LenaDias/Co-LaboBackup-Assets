@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "WYbbpPw",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/WYbbpPw/base.gltf?v=63811956928",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/4a8a9a46-a642-4a03-aaa3-0270354e5f69.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/WYbbpPw/avatar.gltf?v=63811956928",
+  "has_listings": false,
+  "name": "Triangle Avatar w/ Halo Audio Feedback",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "yFpZEMm",
+  "type": "avatar"
+}

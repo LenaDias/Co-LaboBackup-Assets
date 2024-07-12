@@ -1,0 +1,30 @@
+{
+  "name": "172 Harvard St",
+  "parent_scene": null,
+  "project_id": "96F95Q8",
+  "project_url": "https://uploads-prod.reticulum.io/files/2300b31e-e29e-4f08-992c-b45d8ea1e8ad.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "HarvardStreet_062721"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/2cb4cde5-ca1c-4b24-98a0-9c77e4752291.bin",
+    "name": "172 Harvard St",
+    "parent_scene_id": null,
+    "project_id": "96F95Q8",
+    "scene_id": "F6Qf7E4",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/de4d89c2-6ec2-45e2-abef-7e62c69eabba.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/F6Qf7E4/172-harvard-st"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/15958222-a067-4f68-8efc-ac91b81f6a60.jpg"
+}

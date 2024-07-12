@@ -1,0 +1,31 @@
+{
+  "name": "Rufus Porter Museum",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "RPM"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/4f501f7c-8814-49a9-b9da-9ea220e345a2.bin",
+    "name": "Rufus Porter Museum",
+    "parent_scene_id": null,
+    "project_id": null,
+    "scene_id": "KFU27HD",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/5c31917a-3253-44b7-b13e-331a0801259a.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/0cf25f7d-4dc4-41fc-9b61-f54853022135.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/KFU27HD/rufus-porter-museum"
+  },
+  "project_id": "LDRTjx9",
+  "project_url": "https://uploads-prod.reticulum.io/files/a6971f2d-7d54-476b-aab3-17bd8c8d3314.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/410589e5-a66d-4e0a-a776-6c0acdceb45b.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Room Objects"
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        -12.024210929870605,
+        3.621464729309082,
+        -8.528458595275879
+      ],
+      "scale": [
+        5.518000009536737,
+        5.518000009536737,
+        5.518000009536737
+      ],
+      "name": "8tu86hu",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://hubs.mozilla.com/FBhqaQK/colabo-outdoors-meeting-space/",
+            "id": "8tu86hu",
+            "contentSubtype": null
+          }
+        }
+      }
+    }
+  ],
+  "extensionsUsed": [
+    "HUBS_components"
+  ],
+  "asset": {
+    "version": "2.0",
+    "generator": "reticulum"
+  }
+}

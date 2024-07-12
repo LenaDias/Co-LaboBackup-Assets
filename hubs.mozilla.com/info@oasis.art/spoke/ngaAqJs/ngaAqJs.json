@@ -1,0 +1,36 @@
+{
+  "name": "CoLabo Conference Space",
+  "parent_scene": null,
+  "project_id": "ngaAqJs",
+  "project_url": "https://uploads-prod.reticulum.io/files/1174511b-c411-4e48-b135-396de83d8480.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Cell_Theater_interior"
+        },
+        {
+          "title": "SkyBox"
+        },
+        {
+          "title": "meeting"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/f9a6bba1-d363-4dee-ae87-f723d63f0600.bin",
+    "name": "CoLabo Conference Space",
+    "parent_scene_id": null,
+    "project_id": "ngaAqJs",
+    "scene_id": "37jENjX",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/11465d2d-5e16-471a-bfab-1b772a9ed526.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/37jENjX/colabo-conference-space"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/2df80883-9317-4c05-9fd8-9a7f21cc1ec4.jpg"
+}

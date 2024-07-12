@@ -1,0 +1,41 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "SkyBox"
+      },
+      {
+        "title": "Novi_Sad_Walkplane_Resized"
+      },
+      {
+        "title": "Novi_Sad_Dome_withPortal_fixedSized2"
+      },
+      {
+        "title": "novisad_sirens1"
+      },
+      {
+        "title": "novisad_sirens2"
+      },
+      {
+        "title": "lobby"
+      },
+      {
+        "title": "entrance-novi_sad"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/98a8323a-5ec7-4193-ab50-fd5b4066236a.bin",
+  "name": "Prectxe R6 - Novi Sad",
+  "parent_scene_id": null,
+  "project_id": "XXM9n2e",
+  "scene_id": "SnkDwuA",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/fcea572d-ea9b-43e4-9bc5-d57b38698174.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/SnkDwuA/prectxe-r6-novi-sad"
+}

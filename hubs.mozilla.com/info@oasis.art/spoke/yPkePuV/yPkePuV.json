@@ -1,0 +1,30 @@
+{
+  "name": "Whitten House Murals",
+  "parent_scene": null,
+  "project_id": "yPkePuV",
+  "project_url": "https://uploads-prod.reticulum.io/files/aaed7ca6-f15b-4717-a92e-de9cfc6a622c.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "WhittenHouseMurals"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/63bcaba2-7d2d-4b71-adb7-3f39549da55d.bin",
+    "name": "Whitten House Murals",
+    "parent_scene_id": null,
+    "project_id": "yPkePuV",
+    "scene_id": "3veXii9",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/2c2ff18b-b0c8-4778-8296-9f5ad2e7cdc7.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/3veXii9/whitten-house-murals"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/2268e6ae-6b6c-45d4-8346-5d2d38293396.jpg"
+}

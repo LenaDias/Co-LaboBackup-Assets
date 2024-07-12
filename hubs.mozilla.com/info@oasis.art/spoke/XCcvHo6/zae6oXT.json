@@ -1,0 +1,38 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Exterior_Stage"
+      },
+      {
+        "title": "SkyBox"
+      },
+      {
+        "title": "untitled"
+      },
+      {
+        "title": "welcome"
+      },
+      {
+        "title": "conference"
+      },
+      {
+        "title": "laboratory"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/3ba7f616-3f30-408d-9adc-745f35888489.bin",
+  "name": "CoLabo Meeting Space",
+  "parent_scene_id": null,
+  "project_id": "XCcvHo6",
+  "scene_id": "zae6oXT",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/6643bd8f-40f0-4ade-8fcc-f3a8b8814d13.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/zae6oXT/colabo-meeting-space"
+}

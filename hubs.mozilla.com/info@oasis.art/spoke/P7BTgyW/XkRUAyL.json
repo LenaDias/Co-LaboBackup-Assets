@@ -1,0 +1,19 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/10111d57-5519-4868-ab23-7639f97b6dd8.bin",
+  "name": "UTILS TEST",
+  "parent_scene_id": "wKHKPXB",
+  "project_id": "P7BTgyW",
+  "scene_id": "XkRUAyL",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/8db07f69-6691-40f0-b56a-75cf8037d900.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/XkRUAyL/utils-test"
+}

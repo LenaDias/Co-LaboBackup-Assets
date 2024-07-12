@@ -1,0 +1,24 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "HarvardStreet_062721"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/8250fb05-79ae-4ab5-ac0b-0fc0ed2e098d.bin",
+  "name": "Emily's home",
+  "parent_scene_id": "JLAAZf9",
+  "project_id": null,
+  "scene_id": "MZvMSyd",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/17a9c75f-b369-4d00-b948-8d89831da808.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/941e58f3-ba95-4d9c-bf1b-0667cbda4ed5.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/MZvMSyd/emilys-home"
+}

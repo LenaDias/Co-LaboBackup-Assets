@@ -1,0 +1,30 @@
+{
+  "name": "OASIS Gallery",
+  "parent_scene": null,
+  "project_id": "XNS94vn",
+  "project_url": "https://uploads-prod.reticulum.io/files/2b39d46a-6fa3-4565-bab5-16edb6f7c98a.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "OasisGalleryClean"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/1263c581-cedc-424e-a203-42dfb4ad79a4.bin",
+    "name": "OASIS Gallery",
+    "parent_scene_id": null,
+    "project_id": "XNS94vn",
+    "scene_id": "huyE2jw",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/9ff07166-7c2e-4431-9706-3225918e14cc.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/huyE2jw/oasis-gallery"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/4198c5b9-66bd-4ec4-963f-4d49f7705f3f.jpg"
+}

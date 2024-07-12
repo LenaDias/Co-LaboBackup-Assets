@@ -1,0 +1,48 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Dome2_Floorplane"
+      },
+      {
+        "title": "Dome2_Flatshade V2 FixedUVs"
+      },
+      {
+        "title": "hwang sun jeong_1"
+      },
+      {
+        "title": "xplo-no-logo"
+      },
+      {
+        "author": "3DMaesen",
+        "title": "Trees",
+        "url": "https://sketchfab.com/3d-models/trees-eed7470843504aa592514554a6100fbc"
+      },
+      {
+        "title": "googigjeong_exceededscene"
+      },
+      {
+        "author": "Forest Run Forever",
+        "title": "Shield Sphere",
+        "url": "https://sketchfab.com/3d-models/shield-sphere-6967d56fa1004742b2d92bb8ca9fad8b"
+      },
+      {
+        "title": "hwang sun jeong_2"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/fa68fa37-8832-42ee-906b-2f4764dd64ad.bin",
+  "name": "Prectxe R5 - Goo Gi Jeong & Hwang Sun Jeong",
+  "parent_scene_id": null,
+  "project_id": "3vnRQVh",
+  "scene_id": "odeiD8v",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/b65777f8-29ac-41aa-8ba9-14c04cd60542.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/odeiD8v/prectxe-r5-goo-gi-jeong-and-hwang-sun-jeong"
+}

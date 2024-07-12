@@ -1,0 +1,183 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "Room Objects"
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        -3.3458139896392822,
+        2.8895156383514404,
+        8.53525161743164
+      ],
+      "scale": [
+        2.704000000000001,
+        2.704000000000001,
+        2.704000000000001
+      ],
+      "rotation": [
+        0.026733373458714477,
+        0.7086133361481803,
+        -0.02689209520235311,
+        0.7045773781438706
+      ],
+      "name": "9yvsvku",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/Sirens_preres4444_1.webm",
+            "id": "9yvsvku",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        -1.5749949216842651,
+        3.0139646530151367,
+        6.692066192626953
+      ],
+      "scale": [
+        2.6080000000000014,
+        2.6080000000000014,
+        2.6080000000000014
+      ],
+      "rotation": [
+        0.006372111396718,
+        0.4275644593280327,
+        -0.00304330761191903,
+        0.9039572819523355
+      ],
+      "name": "8o5mf17",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/Sirens_preres4444_2.webm",
+            "id": "8o5mf17",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        0.787854015827179,
+        3.1766715049743652,
+        6.269956588745117
+      ],
+      "scale": [
+        2.9080000000000013,
+        2.9080000000000013,
+        2.9080000000000013
+      ],
+      "rotation": [
+        -0.10208426504686127,
+        -0.11457808128835721,
+        -0.011831818085030138,
+        0.9880843456906518
+      ],
+      "name": "rzs7jnr",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/Sirens_preres4444_3.webm",
+            "id": "rzs7jnr",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        1.5654038190841675,
+        3.101612091064453,
+        8.157857894897461
+      ],
+      "scale": [
+        1.9720000000000006,
+        1.9720000000000006,
+        1.9720000000000006
+      ],
+      "rotation": [
+        0.050459989340978534,
+        -0.5932343547715224,
+        0.03859338042647084,
+        0.8025193709698113
+      ],
+      "name": "fsfrh26",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/Sirens_preres4444_4.webm",
+            "id": "fsfrh26",
+            "contentSubtype": null
+          }
+        }
+      }
+    },
+    {
+      "translation": [
+        0.6396345496177673,
+        3.1443090438842773,
+        10.031795501708984
+      ],
+      "scale": [
+        1.9360000000000006,
+        1.9360000000000006,
+        1.9360000000000006
+      ],
+      "rotation": [
+        -0.04936312599712338,
+        -0.8655313741836781,
+        -0.08706035655260312,
+        0.49075372276982226
+      ],
+      "name": "mhfdfg5",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://andrescolubri.net/tmp/Sirens_preres4444_5.webm",
+            "id": "mhfdfg5",
+            "contentSubtype": null
+          }
+        }
+      }
+    }
+  ],
+  "extensionsUsed": [
+    "HUBS_components"
+  ],
+  "asset": {
+    "version": "2.0",
+    "generator": "reticulum"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Lucky_050221"
+      },
+      {
+        "title": "OASIS-Poster"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/d1e5d5af-bd20-44dd-8c8e-f45ab117ec79.bin",
+  "name": "Lucky Jungle",
+  "parent_scene_id": "JLAAZf9",
+  "project_id": null,
+  "scene_id": "TJdcZfP",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/a09dd8c3-791f-498e-b5c2-c542af05a053.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/3da33891-96b3-4828-b202-628387df02b8.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/TJdcZfP/lucky-jungle"
+}

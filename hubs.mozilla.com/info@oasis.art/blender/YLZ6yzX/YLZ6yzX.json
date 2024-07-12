@@ -1,0 +1,19 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/becccd1d-bba2-421c-bf8c-f727711df697.glb",
+  "name": "CoLabo Outdoors Meeting Space",
+  "parent_scene_id": null,
+  "project_id": null,
+  "scene_id": "YLZ6yzX",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/6ba50cb8-7e56-4d12-b454-2b15d271364a.png",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/YLZ6yzX/colabo-outdoors-meeting-space"
+}

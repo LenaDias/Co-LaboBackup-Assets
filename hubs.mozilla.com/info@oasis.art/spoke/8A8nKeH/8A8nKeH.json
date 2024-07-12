@@ -1,0 +1,31 @@
+{
+  "name": "Brew on the grid",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "BrewontheGrid_050221"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/1a566bcc-c527-4224-bf8a-0a0a89821b1a.bin",
+    "name": "Brew on the grid",
+    "parent_scene_id": "JLAAZf9",
+    "project_id": null,
+    "scene_id": "eXnmCDc",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/c5cd916d-8e69-43c8-87b2-22d30488058f.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/db4e07eb-1b19-414e-bda6-02e6244c40f8.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/eXnmCDc/brew-on-the-grid"
+  },
+  "project_id": "8A8nKeH",
+  "project_url": "https://uploads-prod.reticulum.io/files/3720cf88-c8c7-47a0-9b06-6ea3270c752d.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/67ebe29e-ca6d-41ae-9574-502e0deaf3b2.jpg"
+}

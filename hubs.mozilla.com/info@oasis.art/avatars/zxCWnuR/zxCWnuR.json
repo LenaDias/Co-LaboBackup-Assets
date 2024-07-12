@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "zxCWnuR",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/zxCWnuR/base.gltf?v=63811956932",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/ee2aff1e-5793-4145-af76-2e318ea7ae74.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/zxCWnuR/avatar.gltf?v=63811956932",
+  "has_listings": false,
+  "name": "Triangle Avatar w/ Audio Feedback",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "FXWm00A",
+  "type": "avatar"
+}

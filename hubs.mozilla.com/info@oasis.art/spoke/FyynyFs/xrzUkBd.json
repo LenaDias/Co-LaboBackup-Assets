@@ -1,0 +1,43 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "cathedral"
+      },
+      {
+        "title": "cathedral_withportal_floorplan"
+      },
+      {
+        "title": "claude_dataofwind"
+      },
+      {
+        "title": "claude_bloom"
+      },
+      {
+        "title": "xplo-no-logo"
+      },
+      {
+        "title": "claude-img"
+      },
+      {
+        "author": "Forest Run Forever",
+        "title": "Shield Sphere",
+        "url": "https://sketchfab.com/3d-models/shield-sphere-6967d56fa1004742b2d92bb8ca9fad8b"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/c0965a01-e1d9-4776-ad88-70dede8a5204.bin",
+  "name": "Prectxe R3 - CLAUDE",
+  "parent_scene_id": null,
+  "project_id": "FyynyFs",
+  "scene_id": "xrzUkBd",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/1d8b1343-a982-4ef7-ae92-9e5832bb45ab.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/xrzUkBd/prectxe-r3-claude"
+}

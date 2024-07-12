@@ -1,0 +1,31 @@
+{
+  "name": "Elm 65",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "65_Elm"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/ee97b8b5-d1ed-4116-8155-0801d78d2ced.bin",
+    "name": "Elm 65",
+    "parent_scene_id": null,
+    "project_id": null,
+    "scene_id": "TEw4dWf",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/66933873-9d44-476b-9171-f483fb9c9313.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/bd173ef0-aaca-4d50-9564-dd8173bbe6e0.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/TEw4dWf/elm-65"
+  },
+  "project_id": "xKoWNNk",
+  "project_url": "https://uploads-prod.reticulum.io/files/a9f69f76-9f03-4c9f-9500-45a662f9d30d.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/27f6d9e9-a2b6-4502-918a-b940f4a0fefc.jpg"
+}

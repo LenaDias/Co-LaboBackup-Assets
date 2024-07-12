@@ -1,0 +1,46 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "SongYe_Dome"
+      },
+      {
+        "title": "SongYe_Groundplane"
+      },
+      {
+        "author": "Forest Run Forever",
+        "title": "Shield Sphere",
+        "url": "https://sketchfab.com/3d-models/shield-sphere-6967d56fa1004742b2d92bb8ca9fad8b"
+      },
+      {
+        "title": "xplo-no-logo"
+      },
+      {
+        "title": "claysculptures_image"
+      },
+      {
+        "title": "songyeseul_3"
+      },
+      {
+        "title": "songyeseul_1"
+      },
+      {
+        "title": "songyeseul_2"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/f1adaf03-084d-46cb-a0b1-39e3f8e08f1e.bin",
+  "name": "Prectxe R4 - Song Ye Seul",
+  "parent_scene_id": null,
+  "project_id": "bMmSYmi",
+  "scene_id": "jw5miLR",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/61da4151-058c-452c-92ef-49aa7662462c.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/jw5miLR/prectxe-r4-song-ye-seul"
+}

@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "LS2jwEA",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/LS2jwEA/base.gltf?v=63811957019",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/a1492354-d6b1-4542-a89f-dfddf25384f5.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/LS2jwEA/avatar.gltf?v=63811957019",
+  "has_listings": false,
+  "name": "Webcam Astronaut",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "2BtycVC",
+  "type": "avatar"
+}

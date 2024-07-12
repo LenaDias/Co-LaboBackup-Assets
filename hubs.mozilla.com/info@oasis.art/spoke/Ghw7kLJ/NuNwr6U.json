@@ -1,0 +1,35 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Claude_Dome"
+      },
+      {
+        "title": "Dome1_Walkplane"
+      },
+      {
+        "title": "xplo-no-logo"
+      },
+      {
+        "title": "entrance-park-jeonho"
+      },
+      {
+        "title": "parkjeongho"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/db0ca2b5-bb54-4cde-8e77-96f86ff5cdbb.bin",
+  "name": "Prectxe R2 - Park Jeong Ho",
+  "parent_scene_id": null,
+  "project_id": "Ghw7kLJ",
+  "scene_id": "NuNwr6U",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/b3ed2055-36a5-4472-aa58-84f4b950b5db.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/NuNwr6U/prectxe-r2-park-jeong-ho"
+}

@@ -1,0 +1,24 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Lordhobo_041821"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/1ac45511-7505-4931-95ed-541ada88cf12.bin",
+  "name": "Lord Hobo",
+  "parent_scene_id": "JLAAZf9",
+  "project_id": null,
+  "scene_id": "2gE98FL",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/fd84bca1-9f05-45bc-840c-ec1d0b9ca92f.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/561d56f5-ec63-44ac-adfc-a0682bc4c30d.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/2gE98FL/lord-hobo"
+}

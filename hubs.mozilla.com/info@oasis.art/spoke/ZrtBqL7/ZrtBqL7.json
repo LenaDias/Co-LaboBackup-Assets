@@ -1,0 +1,27 @@
+{
+  "name": "OASIS Graffiti Alley Test 0",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/d69d66e2-d7f1-4a45-aa03-3254fcd19b69.bin",
+    "name": "OASIS Graffiti Alley",
+    "parent_scene_id": null,
+    "project_id": null,
+    "scene_id": "GyFn7Yx",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/47c5c603-0881-4cf2-84d4-cb2b8fc96945.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/653993d1-d0c8-47b3-ae1c-a5888e192937.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/GyFn7Yx/oasis-graffiti-alley"
+  },
+  "project_id": "ZrtBqL7",
+  "project_url": "https://uploads-prod.reticulum.io/files/6ce95ae5-1491-4332-b74b-b208cb9ab0ec.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/c62c0a30-e9e5-412d-b1e2-1cd28c6c59c2.jpg"
+}

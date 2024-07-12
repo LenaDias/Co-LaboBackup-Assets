@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "CTAD5sY",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/CTAD5sY/base.gltf?v=63811956984",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/cb634dc9-dab5-4867-a0c2-b9b0b8148cb8.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/CTAD5sY/avatar.gltf?v=63811956984",
+  "has_listings": false,
+  "name": "Orange is Suspicious",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "ZquZaJy",
+  "type": "avatar"
+}

@@ -1,0 +1,24 @@
+{
+  "account_id": "1050727026803081461",
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attributions": {},
+  "avatar_id": "MgUWABn",
+  "base_gltf_url": "https://hubs.mozilla.com/api/v1/avatars/MgUWABn/base.gltf?v=63811957341",
+  "description": null,
+  "files": {
+    "base_map": null,
+    "bin": null,
+    "emissive_map": null,
+    "gltf": null,
+    "normal_map": null,
+    "orm_map": null,
+    "thumbnail": "https://uploads-prod.reticulum.io/files/504f4947-c11e-4702-992b-578b88a2b7ce.png"
+  },
+  "gltf_url": "https://hubs.mozilla.com/api/v1/avatars/MgUWABn/avatar.gltf?v=63811957341",
+  "has_listings": false,
+  "name": "Drone",
+  "parent_avatar_id": null,
+  "parent_avatar_listing_id": "QxmIn8B",
+  "type": "avatar"
+}

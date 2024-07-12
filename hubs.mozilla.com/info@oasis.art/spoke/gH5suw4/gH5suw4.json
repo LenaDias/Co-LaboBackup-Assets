@@ -1,0 +1,33 @@
+{
+  "name": "Prectxe R3 - Demo",
+  "parent_scene": null,
+  "project_id": "gH5suw4",
+  "project_url": "https://uploads-prod.reticulum.io/files/015740d5-4aa3-4644-b67b-85080b4a46f8.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "cathedral"
+        },
+        {
+          "title": "cathedral_withportal_floorplan"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/353a2542-c87d-4da5-9a84-67b5a91807a1.bin",
+    "name": "Prectxe R3 - Demo",
+    "parent_scene_id": null,
+    "project_id": "gH5suw4",
+    "scene_id": "iDwMGyb",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/d110d2da-a389-4f32-8afd-06eff7831282.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/iDwMGyb/prectxe-r3-demo"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/572f22d7-2aa2-46ff-9b5c-69ab3580e818.jpg"
+}

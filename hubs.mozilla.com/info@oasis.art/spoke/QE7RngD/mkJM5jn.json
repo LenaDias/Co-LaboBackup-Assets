@@ -1,0 +1,33 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "zoetropic-mondrian-ex2"
+      },
+      {
+        "title": "zeotropic-mondrian"
+      },
+      {
+        "title": "Oasis_050121"
+      },
+      {
+        "title": "OASIS-Poster"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/fd3ecbdf-0a1d-4838-bd52-d0e3badef1f0.bin",
+  "name": "OASIS Gallery",
+  "parent_scene_id": "wKHKPXB",
+  "project_id": null,
+  "scene_id": "mkJM5jn",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/6ea66091-6b1c-493e-b045-160ab083bd6d.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/b0a3321c-fec5-46e4-a349-c0f86c92b57f.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/mkJM5jn/oasis-gallery"
+}

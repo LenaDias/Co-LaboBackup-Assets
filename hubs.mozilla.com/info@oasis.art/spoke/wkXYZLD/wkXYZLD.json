@@ -1,0 +1,31 @@
+{
+  "name": "Border Cafe",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Border_050321"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/82245a11-2609-4279-bd46-adea99a208d7.bin",
+    "name": "Border Cafe",
+    "parent_scene_id": "4FxCdTn",
+    "project_id": null,
+    "scene_id": "X56tu8R",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/adc81bff-65be-41a0-aa91-5dcf24644008.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/280895c5-9e32-4f05-9c61-8c6979748326.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/X56tu8R/border-cafe"
+  },
+  "project_id": "wkXYZLD",
+  "project_url": "https://uploads-prod.reticulum.io/files/2f5e851a-4a89-4ad4-8c30-cf96760f3e79.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/2e493e2c-f90c-4a39-8254-4236774efd9b.jpg"
+}

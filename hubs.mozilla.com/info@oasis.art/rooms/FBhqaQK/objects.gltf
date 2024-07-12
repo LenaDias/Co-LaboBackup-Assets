@@ -1,0 +1,51 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Room Objects"
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        20.677453994750977,
+        2.075422763824463,
+        1.627099871635437
+      ],
+      "scale": [
+        6.66547341308797,
+        6.665473413087968,
+        6.66547341308797
+      ],
+      "rotation": [
+        0,
+        1.7114270056681817e-8,
+        0,
+        0.9999999999999998
+      ],
+      "name": "r4a54ff",
+      "extensions": {
+        "HUBS_components": {
+          "pinnable": {
+            "pinned": true
+          },
+          "media": {
+            "version": 1,
+            "src": "https://hubs.mozilla.com/QrLRXWF/colabo-indoors-theater-hall",
+            "id": "r4a54ff",
+            "contentSubtype": null
+          }
+        }
+      }
+    }
+  ],
+  "extensionsUsed": [
+    "HUBS_components"
+  ],
+  "asset": {
+    "version": "2.0",
+    "generator": "reticulum"
+  }
+}

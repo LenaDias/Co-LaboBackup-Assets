@@ -1,0 +1,39 @@
+{
+  "name": "CoLabo Laboratory Space",
+  "parent_scene": null,
+  "project_id": "edXFE9q",
+  "project_url": "https://uploads-prod.reticulum.io/files/3b0553dd-8577-4b35-8d1e-bbb30ba1c8dd.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "SkyBox"
+        },
+        {
+          "title": "Novi_Sad_Walkplane_Resized"
+        },
+        {
+          "title": "Novi_Sad_Dome_withPortal_fixedSized2"
+        },
+        {
+          "title": "meeting"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/a5cfe68f-b9fb-4451-9262-6d942303802a.bin",
+    "name": "CoLabo Laboratory Space",
+    "parent_scene_id": null,
+    "project_id": "edXFE9q",
+    "scene_id": "TZHcUvz",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/168f9658-6469-49f3-9e56-b107fdd4a08c.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/TZHcUvz/colabo-laboratory-space"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/d51db3f4-1c8d-44af-8cd4-e9856350e605.jpg"
+}

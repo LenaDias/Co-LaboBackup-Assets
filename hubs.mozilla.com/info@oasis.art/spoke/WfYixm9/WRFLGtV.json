@@ -1,0 +1,23 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": false,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "Video"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/5fadee9c-943a-4dcc-a70d-a3ecf5fd724f.bin",
+  "name": "Test 360 video",
+  "parent_scene_id": "4FxCdTn",
+  "project_id": "WfYixm9",
+  "scene_id": "WRFLGtV",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/bedd7e21-b9a6-4105-bd39-5179e0ba783d.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/WRFLGtV/test-360-video"
+}

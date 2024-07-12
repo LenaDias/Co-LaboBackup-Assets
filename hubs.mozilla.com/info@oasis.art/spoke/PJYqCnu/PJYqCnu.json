@@ -1,0 +1,31 @@
+{
+  "name": "Camie's Bakery",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Camies_Misun"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/dc2d82ec-391f-4747-857d-2e7e7e6e7d86.bin",
+    "name": "Camie's Bakery",
+    "parent_scene_id": "JLAAZf9",
+    "project_id": null,
+    "scene_id": "7tbBc5z",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/6e237cc0-d317-43c4-8af2-6e2aebcf3206.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/b194f645-fc62-4493-8004-28dfe209ca9e.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/7tbBc5z/camies-bakery"
+  },
+  "project_id": "PJYqCnu",
+  "project_url": "https://uploads-prod.reticulum.io/files/d034a154-2b48-4b9c-8fdf-a2750bccff5a.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/e60264fc-790b-48e9-8cc4-82f09c54d194.jpg"
+}

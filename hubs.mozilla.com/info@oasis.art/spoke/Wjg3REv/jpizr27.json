@@ -1,0 +1,63 @@
+{
+  "account_id": null,
+  "allow_promotion": false,
+  "allow_remixing": true,
+  "attribution": null,
+  "attributions": {
+    "content": [
+      {
+        "title": "brightpool"
+      },
+      {
+        "title": "IMG_20210516_101158_353"
+      },
+      {
+        "title": "IMG_20210324_120710764"
+      },
+      {
+        "title": "IMG_20210324_120645638"
+      },
+      {
+        "title": "IMG_20210324_120633845"
+      },
+      {
+        "title": "IMG_20210313_171048739"
+      },
+      {
+        "title": "urbano1"
+      },
+      {
+        "title": "urbano2"
+      },
+      {
+        "title": "urbano3"
+      },
+      {
+        "title": "urbano4"
+      },
+      {
+        "title": "urbano5"
+      },
+      {
+        "title": "urbano6"
+      },
+      {
+        "title": "NOOP Video"
+      },
+      {
+        "title": "Trazos Video"
+      }
+    ],
+    "creator": ""
+  },
+  "description": null,
+  "model_url": "https://uploads-prod.reticulum.io/files/17f8a7cf-7b02-4a74-a492-9665c8c857e2.bin",
+  "name": "Space 215",
+  "parent_scene_id": "JLAAZf9",
+  "project_id": null,
+  "scene_id": "jpizr27",
+  "scene_project_url": "https://uploads-prod.reticulum.io/files/84b79395-4965-4187-95c1-1f3745d7dcb1.json",
+  "screenshot_url": "https://uploads-prod.reticulum.io/files/f2d09ab1-aba4-464a-b795-d7a4e4ed96cb.jpg",
+  "type": "scene",
+  "url": "https://hubs.mozilla.com/scenes/jpizr27/space-215"
+}

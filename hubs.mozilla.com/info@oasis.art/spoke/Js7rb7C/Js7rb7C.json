@@ -1,0 +1,31 @@
+{
+  "name": "Emma's",
+  "parent_scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": true,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Emmas_042021"
+        }
+      ],
+      "creator": ""
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/f961768f-fcf8-407f-aeb6-ef8743d0659e.bin",
+    "name": "Emma's",
+    "parent_scene_id": "JLAAZf9",
+    "project_id": null,
+    "scene_id": "UXisF79",
+    "scene_project_url": "https://uploads-prod.reticulum.io/files/5f9a46c6-b51c-4505-bc73-876b7c333a9e.json",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/3dd35bd4-16fb-4da2-a7f0-2d715af87fc9.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/UXisF79/emmas"
+  },
+  "project_id": "Js7rb7C",
+  "project_url": "https://uploads-prod.reticulum.io/files/c16b62d5-f9db-4178-9ff9-c7ba18a9496c.json",
+  "scene": null,
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/3ac25231-1d8b-4723-b34d-7fa0446be4e1.jpg"
+}
